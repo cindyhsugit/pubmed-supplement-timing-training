@@ -1,12 +1,1 @@
-__pycache__/
-*.py[cod]
-.venv/
-venv/
-data/
-*.pth
-*.pt
-*.onnx
-*.pkl
-*.h5
-logs/
-wandb/
+.env
